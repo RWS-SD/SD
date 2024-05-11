@@ -1,2 +1,7 @@
-# SD
-Stable Diffusion tests
+# Stable Diffusion
+
+## Models used
+
+## Prompts used
+
+## Negative prompts used
