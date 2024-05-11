@@ -7,6 +7,7 @@
 
 ## Loras
 1) SDXL - vanta-black_contrast_V3.0.safetensors
+2) Desolation.safetensors
 
 ## Prompts used
 
